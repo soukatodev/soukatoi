@@ -1,14 +1,14 @@
 {
    "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "IRON",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "9f71a3a88ca55002",
-      "main_ads_intertitial":"520e3a186ad26572",
+      "main_ads_banner": "8178390",
+      "main_ads_intertitial":"8178388",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"1498b9f71",
       "initialize_sdk_backup_ads":"203434750",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
