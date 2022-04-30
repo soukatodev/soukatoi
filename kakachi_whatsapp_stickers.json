@@ -27,12 +27,12 @@
    
 
   }
-  ],"sticker_packs": [
+ ],"sticker_packs": [
     {
       "id": "101",
-      "name": "kakashi pack",
-      "folder_link":"https://sit.setups.site/stikerers_kaka/",
-      "image_cover": "0.webp",
+      "name": "Aliendroid",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/10/",
+      "image_cover": "00.png",
       "stickers": [
         {
           "image_file": "11.webp"
@@ -55,47 +55,47 @@
       ]
     },{
       "id": "102",
-      "name": "kakashi pack",
-      "folder_link":"https://sit.setups.site/stikerers_kaka/2/",
-      "image_cover": "0.webp",
+      "name": "One Piece",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/20/",
+      "image_cover": "00.png",
       "stickers": [
         {
-          "image_file": "1.webp"
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },  
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
         {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
         {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
         {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         }
       ]
     }
     ,{
       "id": "103",
-      "name": "kakashi pack",
-      "folder_link":"https://sit.setups.site/stikerers_kaka/2/",
-      "image_cover": "0.webp",
+      "name": "Chibi Boys",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/30/",
+      "image_cover": "00.png",
       "stickers": [
         {
-          "image_file": "1.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
           "image_file": "03.webp"
@@ -104,42 +104,42 @@
           "image_file": "05.webp"
         },
         {
-          "image_file": "6.webp"
+          "image_file": "01.webp"
         },
         {
-          "image_file": "7.webp"
+          "image_file": "06.webp"
         }
       ]
     },
     {
       "id": "104",
-      "name": "kakashi pack ",
-      "folder_link":"https://sit.setups.site/stikerers_kaka/2/",
-      "image_cover": "10.webp",
+      "name": "Dragon Ball Z",
+      "folder_link":"https://aliendro.id/uploads/demo/stickerwa/40/",
+      "image_cover": "00.png",
       "stickers": [
         {
-          "image_file": "1.webp"
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
          {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
          {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
         {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
         {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         }
       ]
     }
