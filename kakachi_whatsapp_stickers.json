@@ -30,7 +30,7 @@
    ],"sticker_packs": [
     {
       "id": "101",
-      "name": "Aliendroid",
+      "name": "Kakashi Uchiha",
       "folder_link":"https://sit.setups.site/stikerers_kaka/",
       "image_cover": "0.png",
       "stickers": [
@@ -100,7 +100,7 @@
       ]
     },{
       "id": "102",
-      "name": "One Piece",
+      "name": "Chibi Kakashi",
       "folder_link":"https://sit.setups.site/stikerers_kaka/2/",
       "image_cover": "16.png",
       "stickers": [
@@ -198,63 +198,7 @@
           "image_file": "30.webp"
         }
       ]
-    }
-    ,{
-      "id": "103",
-      "name": "Chibi Boys",
-      "folder_link":"https://sit.setups.site/stikerers_kaka/3/",
-      "image_cover": "1.png",
-      "stickers": [
-          {
-          "image_file": "0.webp"
-        },
-        {
-          "image_file": "1.webp"
-        },
-        {
-          "image_file": "2.webp"
-        },
-        {
-          "image_file": "3.webp"
-        },
-        {
-          "image_file": "4.webp"
-        },  
-        {
-          "image_file": "5.webp"
-        },
-        {
-          "image_file": "6.webp"
-        },
-        {
-          "image_file": "7.webp"
-        },
-         {
-          "image_file": "8.webp"
-        },
-         {
-          "image_file": "9.webp"
-        },
-         {
-          "image_file": "10.webp"
-        },
-         {
-          "image_file": "11.webp"
-        },
-         {
-          "image_file": "12.webp"
-        },
-         {
-          "image_file": "13.webp"
-        },
-         {
-          "image_file": "14.webp"
-        },
-        {
-          "image_file": "15.webp"
-        }
-      ]
-    },
+   
     {
       "id": "104",
       "name": "Akachi Chibi",
