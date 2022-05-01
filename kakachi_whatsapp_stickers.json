@@ -198,38 +198,7 @@
           "image_file": "30.webp"
         }
       ]
-      },
-    {
-      "id": "104",
-      "name": "Akachi Chibi",
-      "folder_link":"https://sit.setups.site/stikerers_kaka/3/",
-      "image_cover": "30.png",
-      "stickers": [
-        {
-          "image_file": "15.webp"
-        },
-        {
-          "image_file": "16.webp"
-        },
-         {
-          "image_file": "17.webp"
-        },
-        {
-          "image_file": "18.webp"
-        },
-        {
-          "image_file": "19.webp"
-        },
-         {
-          "image_file": "20.webp"
-        },
-        {
-          "image_file": "21.webp"
-        },
-        {
-          "image_file": "22.webp"
-        }
-      ]
+      
     }
   ]
 }
