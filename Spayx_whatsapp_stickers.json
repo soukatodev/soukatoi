@@ -3,9 +3,9 @@
   {
       "select_main_ads": "IRON",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "main_ads_reward":"",
+      "main_ads_banner": "8218216",
+      "main_ads_intertitial":"8218214",
+      "main_ads_reward":"8218212",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_reward":"",
