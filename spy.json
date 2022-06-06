@@ -1,0 +1,147 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "IRON",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "8148446",
+      "main_ads_intertitial":"8148444",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 4,
+      "initialize_sdk":"148afd5e1",
+      "initialize_sdk_backup_ads":"203948551",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "Theme": [
+    {
+      "url_theme": "https://sit.setups.site/spy/bg1.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg2.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg3.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg4.jpg"
+    },
+	{
+      "url_theme": "https://sit.setups.site/spy/bg5.jpg"
+    }, 
+	{
+      "url_theme": "https://sit.setups.site/spy/bg6.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg7.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg8.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg9.jpg"
+    },
+	{
+      "url_theme": "https://sit.setups.site/spy/bg10.jpg"
+    }, 
+	{
+      "url_theme": "https://sit.setups.site/spy/bg11.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg12.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg13.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg14.jpg"
+    },
+	{
+      "url_theme": "https://sit.setups.site/spy/bg15.jpg"
+    }, 
+	{
+      "url_theme": "https://sit.setups.site/spy/bg16.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg17.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg18.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg19.jpg"
+    },
+	{
+      "url_theme": "https://sit.setups.site/spy/bg20.jpg"
+    }, 
+	{
+      "url_theme": "https://sit.setups.site/spy/bg21.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg22.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg23.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg24.jpg"
+    },
+	{
+      "url_theme": "https://sit.setups.site/spy/bg25.jpg"
+    }, 
+	{
+      "url_theme": "https://sit.setups.site/spy/bg26.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg27.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg28.jpg"
+    }, 
+     {
+      "url_theme": "https://sit.setups.site/spy/bg29.jpg"
+    },
+	      
+	{
+     "url_theme": "https://sit.setups.site/spy/bg30.jpg"
+    }, 
+	{
+     "url_theme": "https://sit.setups.site/spy/bg31.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg32.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg33.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg34.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg35.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg36.jpg"
+    },
+	{
+     "url_theme": "https://sit.setups.site/spy/bg37.jpg"
+    },
+		{
+     "url_theme": "https://sit.setups.site/spy/bg38.jpg"
+    },
+     {
+      "url_theme": "https://sit.setups.site/spy/bg39.jpg"
+    },
+	{
+      "url_theme": "https://sit.setups.site/spy/bg34.jpg"
+  
+    }
+     
+  ]
+}
