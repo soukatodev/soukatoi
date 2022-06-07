@@ -122,27 +122,27 @@
     },
         {
       "id": "102",
-      "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
-      "image_cover": "00.png",
+      "name": "Spy x Family",
+      "folder_link":"https://sit.setups.site/anime_stickers/01.spy/",
+      "image_cover": "ico4.png",
       "stickers": [
         {
-          "image_file": "11.webp"
+          "image_file": "4.webp"
         },
         {
-          "image_file": "12.webp"
+          "image_file": "5.webp"
         },
         {
-          "image_file": "13.webp"
+          "image_file": "6.webp"
         },
         {
-          "image_file": "14.webp"
+          "image_file": "7.webp"
         },
         {
-          "image_file": "15.webp"
+          "image_file": "8.webp"
         },
         {
-          "image_file": "16.webp"
+          "image_file": "9.webp"
         }
       ]
     },
