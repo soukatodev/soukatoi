@@ -1,15 +1,15 @@
 {
    "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
+      "select_main_ads": "IRON",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "backup_ads_banner":"",
+      "main_ads_intertitial":"8344190",
+      "backup_ads_banner":"8344192",
       "backup_ads_intertitial":"",
       "interval_intertitial": 4,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"14d798551",
+      "initialize_sdk_backup_ads":"205530744",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
