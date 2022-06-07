@@ -30,7 +30,7 @@
   ],"sticker_packs": [
     {
       "id": "101",
-      "name": "Aliendroid",
+      "name": "boku",
       "folder_link":"https://drive.google.com/drive/folders/1IVxDJkkMmVCybl6Lb187I2FrGBJvctCV",
       "image_cover": "tray.png",
       "stickers": [
@@ -122,9 +122,9 @@
     },
         {
       "id": "102",
-      "name": "Aliendroid",
-      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
-      "image_cover": "00.png",
+      "name": "Hunter",
+      "folder_link":"https://drive.google.com/drive/folders/11BBZeLxijVkKvyiYaaqyQoCcPdNklMnA",
+      "image_cover": "tary.png",
       "stickers": [
         {
           "image_file": "11.webp"
