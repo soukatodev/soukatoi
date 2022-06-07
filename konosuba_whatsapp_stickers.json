@@ -27,14 +27,14 @@
    
 
   }
-   ],"sticker_packs": [
+  ],"sticker_packs": [
     {
       "id": "101",
-      "name": "Yuru Yuri",
-      "folder_link":"https://sit.setups.site/anime_stickers/Yuru%20_Yuri/",
-      "image_cover": "tray.png",
+      "name": "Aliendroid",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
+      "image_cover": "00.png",
       "stickers": [
-        {
+            {
           "image_file": "1.webp"
         },
         {
@@ -79,7 +79,42 @@
           {
           "image_file": "14.webp"
         },
-          
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
         {
           "image_file": "30.webp"
         }
@@ -87,35 +122,35 @@
     },
         {
       "id": "102",
-      "name": "Spy x Family",
-      "folder_link":"https://sit.setups.site/anime_stickers/01.spy/",
-      "image_cover": "ico4.png",
+      "name": "Aliendroid",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
+      "image_cover": "00.png",
       "stickers": [
         {
-          "image_file": "4.webp"
+          "image_file": "11.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "12.webp"
         },
         {
-          "image_file": "6.webp"
+          "image_file": "13.webp"
         },
         {
-          "image_file": "7.webp"
+          "image_file": "14.webp"
         },
         {
-          "image_file": "8.webp"
+          "image_file": "15.webp"
         },
         {
-          "image_file": "9.webp"
+          "image_file": "16.webp"
         }
       ]
     },
         {
       "id": "103",
-      "name": "01.boku",
-      "folder_link":"https://sit.setups.site/anime_stickers/01.boku/",
-      "image_cover": "tray.png",
+      "name": "Aliendroid",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
+      "image_cover": "00.png",
       "stickers": [
         {
           "image_file": "11.webp"
@@ -140,7 +175,7 @@
         {
       "id": "104",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -166,7 +201,7 @@
         {
       "id": "105",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -192,7 +227,7 @@
         {
       "id": "106",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -218,7 +253,7 @@
         {
       "id": "107",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -244,7 +279,7 @@
         {
       "id": "108",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -270,7 +305,7 @@
         {
       "id": "109",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -296,7 +331,7 @@
         {
       "id": "110",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -322,7 +357,7 @@
         {
       "id": "111",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -348,7 +383,7 @@
         {
       "id": "112",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -374,7 +409,7 @@
         {
       "id": "113",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -400,7 +435,7 @@
         {
       "id": "114",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -426,7 +461,7 @@
         {
       "id": "115",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -452,7 +487,7 @@
         {
       "id": "116",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -478,7 +513,7 @@
         {
       "id": "117",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -504,7 +539,7 @@
         {
       "id": "118",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -530,7 +565,7 @@
         {
       "id": "119",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -556,7 +591,7 @@
         {
       "id": "120",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -582,7 +617,7 @@
         {
       "id": "121",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -608,7 +643,7 @@
         {
       "id": "122",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -634,7 +669,7 @@
         {
       "id": "123",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -660,7 +695,7 @@
         {
       "id": "124",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -686,7 +721,7 @@
         {
       "id": "125",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -712,7 +747,7 @@
         {
       "id": "126",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -738,7 +773,7 @@
         {
       "id": "127",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -764,7 +799,7 @@
         {
       "id": "128",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -790,7 +825,7 @@
         {
       "id": "129",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -816,7 +851,7 @@
         {
       "id": "130",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -842,7 +877,7 @@
         {
       "id": "131",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -868,7 +903,7 @@
         {
       "id": "132",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -894,7 +929,7 @@
         {
       "id": "133",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -922,7 +957,7 @@
         {
       "id": "134",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -948,7 +983,7 @@
     {
       "id": "135",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -974,7 +1009,7 @@
     {
       "id": "136",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1000,7 +1035,7 @@
     {
       "id": "137",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1026,7 +1061,7 @@
     {
       "id": "138",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1052,7 +1087,7 @@
     {
       "id": "139",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1078,7 +1113,7 @@
     {
       "id": "140",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1104,7 +1139,7 @@
     {
       "id": "141",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1130,7 +1165,7 @@
     {
       "id": "142",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1156,7 +1191,7 @@
     {
       "id": "143",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1182,7 +1217,7 @@
     {
       "id": "144",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1208,7 +1243,7 @@
     {
       "id": "145",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1234,7 +1269,7 @@
     {
       "id": "146",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
@@ -1260,7 +1295,7 @@
     {
       "id": "147",
       "name": "Aliendroid",
-      "folder_link":"https://sit.setups.site/anime_stickers/",
+      "folder_link":"https://drive.google.com/drive/folders/11v1lfj5i6P3Ko4CTDUCTOBcMyAmFZrmZ/",
       "image_cover": "00.png",
       "stickers": [
         {
