@@ -3954,7 +3954,7 @@
       "id": "143",
       "name": "Goblin Slayer",
       "folder_link":"https://floormatreviews.net/anime_stickers/Goblin_Slayer/",
-      "image_cover": "14.web9",
+      "image_cover": "14.webp",
       "stickers": [
             {
           "image_file": "01.webp"
@@ -4025,36 +4025,36 @@
     },
     {
       "id": "144",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
-      "image_cover": "tray.png",
+      "name": "DEMON SLAYER",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DEMON_SLAYER/",
+      "image_cover": "14.webp",
       "stickers": [
             {
-          "image_file": "01.webp"
+          "image_file": "1.webp"
         },
         {
-          "image_file": "02.webp"
+          "image_file": "2.webp"
         },
         {
-          "image_file": "03.webp"
+          "image_file": "3.webp"
         },
         {
-          "image_file": "04.webp"
+          "image_file": "4.webp"
         },
         {
-          "image_file": "05.webp"
+          "image_file": "5.webp"
         },
           {
-          "image_file": "06.webp"
+          "image_file": "6.webp"
         },
           {
-          "image_file": "07.webp"
+          "image_file": "7.webp"
         },
           {
-          "image_file": "08.webp"
+          "image_file": "8.webp"
         },
           {
-          "image_file": "09.webp"
+          "image_file": "9.webp"
         },
           {
           "image_file": "10.webp"
@@ -4104,16 +4104,10 @@
           "image_file": "25.webp"
         }, {
           "image_file": "26.webp"
-        }, {
-          "image_file": "27.webp"
-        }, {
-          "image_file": "28.webp"
-        }, {
-          "image_file": "29.webp"
-        },
+        }, 
         
         {
-          "image_file": "01.webp"
+          "image_file": "27.webp"
         }
       ]
     },
