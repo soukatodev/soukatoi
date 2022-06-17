@@ -2104,8 +2104,8 @@
     },
         {
       "id": "123",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Pica",
+      "folder_link":"https://floormatreviews.net/anime_stickers/pica/",
       "image_cover": "tray.png",
       "stickers": [
            {
@@ -2198,8 +2198,8 @@
     },
         {
       "id": "124",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "jujutsu",
+      "folder_link":"https://floormatreviews.net/anime_stickers/jujutsu/",
       "image_cover": "tray.png",
       "stickers": [
            {
@@ -2271,57 +2271,45 @@
           "image_file": "22.webp"
         }, {
           "image_file": "23.webp"
-        }, {
-          "image_file": "24.webp"
-        }, {
-          "image_file": "25.webp"
-        }, {
-          "image_file": "26.webp"
-        }, {
-          "image_file": "27.webp"
-        }, {
-          "image_file": "28.webp"
-        }, {
-          "image_file": "29.webp"
-        },
+        }, 
         
         {
-          "image_file": "01.webp"
+          "image_file": "24.webp"
         }
       ]
     },
         {
       "id": "125",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "suzumiya",
+      "folder_link":"https://floormatreviews.net/anime_stickers/01.suzumiya/",
       "image_cover": "tray.png",
       "stickers": [
            {
-          "image_file": "1.webp"
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
@@ -2386,36 +2374,36 @@
     },
         {
       "id": "126",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Fairy Tail",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Fairy_Tail_1/",
       "image_cover": "tray.png",
       "stickers": [
-           {
-          "image_file": "1.webp"
+             {
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
@@ -2480,36 +2468,36 @@
     },
         {
       "id": "127",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Death Note",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DeathNote2/",
       "image_cover": "tray.png",
       "stickers": [
-           {
-          "image_file": "1.webp"
+            {
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
@@ -2574,36 +2562,36 @@
     },
         {
       "id": "128",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Tokyo Ghoul ",
+      "folder_link":"https://floormatreviews.net/anime_stickers/TokyoGhoul1/",
       "image_cover": "tray.png",
       "stickers": [
-           {
-          "image_file": "1.webp"
+             {
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
@@ -2668,36 +2656,36 @@
     },
         {
       "id": "129",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Dagashi Kashi",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DagashiKashi/",
       "image_cover": "tray.png",
       "stickers": [
-           {
-          "image_file": "1.webp"
+            {
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
@@ -2762,36 +2750,36 @@
     },
         {
       "id": "130",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Eromanga Sensei",
+      "folder_link":"https://floormatreviews.net/anime_stickers/EromangaSensei/",
       "image_cover": "tray.png",
       "stickers": [
            {
-          "image_file": "1.webp"
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
@@ -2856,36 +2844,36 @@
     },
         {
       "id": "131",
-      "name": "Aliendroid",
-      "folder_link":"https://floormatreviews.net/anime_stickers/",
+      "name": "Gabriel DropOut",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Gabriel_DropOut/",
       "image_cover": "tray.png",
       "stickers": [
-           {
-          "image_file": "1.webp"
+            {
+          "image_file": "01.webp"
         },
         {
-          "image_file": "2.webp"
+          "image_file": "02.webp"
         },
         {
-          "image_file": "3.webp"
+          "image_file": "03.webp"
         },
         {
-          "image_file": "4.webp"
+          "image_file": "04.webp"
         },
         {
-          "image_file": "5.webp"
+          "image_file": "05.webp"
         },
           {
-          "image_file": "6.webp"
+          "image_file": "06.webp"
         },
           {
-          "image_file": "7.webp"
+          "image_file": "07.webp"
         },
           {
-          "image_file": "8.webp"
+          "image_file": "08.webp"
         },
           {
-          "image_file": "9.webp"
+          "image_file": "09.webp"
         },
           {
           "image_file": "10.webp"
