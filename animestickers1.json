@@ -1,0 +1,4185 @@
+{
+  "Ads": [
+  {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+    "mode_promo":"",  
+    "icon_promo":"",
+    "title_promo":"",
+    "description-promo":"",
+    "install_promo":""
+   
+
+  }
+  ],"sticker_packs": [
+    {
+      "id": "101",
+      "name": "Spy x Family",
+      "folder_link":"https://floormatreviews.net/anime_stickers/02.SPY/",
+      "image_cover": "ico2.png",
+      "stickers": [
+           {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+          {
+          "image_file": "6.webp"
+        },
+          {
+          "image_file": "7.webp"
+        },
+          {
+          "image_file": "8.webp"
+        },
+          {
+          "image_file": "9.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+         
+     
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+  
+        {
+      "id": "102",
+      "name": "02",
+      "folder_link":"https://floormatreviews.net/anime_stickers/01.darling/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+        
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "103",
+      "name": "Attack On Titan",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Attack_On_Titan/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+         
+       
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "104",
+      "name": "My Hero Academia",
+      "folder_link":"https://floormatreviews.net/anime_stickers/My_Hero_Academia/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+      
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "105",
+      "name": "nanatsu",
+      "folder_link":"https://floormatreviews.net/anime_stickers//01.nanatsu/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+         
+      
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "106",
+      "name": "Gintama",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Gintama/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+         
+        
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "107",
+      "name": "Charlotte",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Charlotte/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+         
+          {
+          "image_file": "11.webp"
+        },
+          {
+          "image_file": "12.webp"
+        },
+         
+      
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "108",
+      "name": "One Punch Man",
+      "folder_link":"https://floormatreviews.net/anime_stickers/One_Punch_Man_1/",
+      "image_cover": "tray.png",
+      "stickers": [
+                    {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "109",
+      "name": "Overlord",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Overlord/",
+      "image_cover": "tray.png",
+      "stickers": [
+                    {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "110",
+      "name": "DragonBall",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DragonBall/",
+      "image_cover": "tray.png",
+      "stickers": [
+                   {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+         
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "111",
+      "name": "Naruto",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Naruto/",
+      "image_cover": "tray.png",
+      "stickers": [
+          {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "112",
+      "name": "kill",
+      "folder_link":"https://floormatreviews.net/anime_stickers/01.kill/",
+      "image_cover": "tray.png",
+      "stickers": [
+                    {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+         
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "113",
+      "name": "One Piece",
+      "folder_link":"https://floormatreviews.net/anime_stickers/One_Piece/",
+      "image_cover": "tray.png",
+      "stickers": [
+                  {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "114",
+      "name": "Hyouka",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Hyouka/",
+      "image_cover": "tray.png",
+      "stickers": [
+                  {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+        
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "115",
+      "name": "Chuunibyou",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Chuunibyou/",
+      "image_cover": "tray.png",
+      "stickers": [
+                    {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+         
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "116",
+      "name": "Idolmaster",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Idolmaster/",
+      "image_cover": "tray.png",
+      "stickers": [
+                    {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+ 
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "117",
+      "name": "SteinsGate",
+      "folder_link":"https://floormatreviews.net/anime_stickers/SteinsGate/",
+      "image_cover": "tray.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+     
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "118",
+      "name": "X hunter",
+      "folder_link":"https://floormatreviews.net/anime_stickers/01.hunter2/",
+      "image_cover": "tray.png",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "119",
+      "name": "Toaru Majutsu No Index",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Toaru_Majutsu_No_Index/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+   
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "120",
+      "name": "lucky",
+      "folder_link":"https://floormatreviews.net/anime_stickers/01.lucky/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+   
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "121",
+      "name": "BanG dream",
+      "folder_link":"https://floormatreviews.net/anime_stickers/BanG_dream/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "122",
+      "name": "Full Metal Alchemist",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Full_Metal_Alchemist/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "123",
+      "name": "Pica",
+      "folder_link":"https://floormatreviews.net/anime_stickers/pica/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+          {
+          "image_file": "6.webp"
+        },
+          {
+          "image_file": "7.webp"
+        },
+          {
+          "image_file": "8.webp"
+        },
+          {
+          "image_file": "9.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+ 
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "124",
+      "name": "jujutsu",
+      "folder_link":"https://floormatreviews.net/anime_stickers/jujutsu/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+          {
+          "image_file": "6.webp"
+        },
+          {
+          "image_file": "7.webp"
+        },
+          {
+          "image_file": "8.webp"
+        },
+          {
+          "image_file": "9.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, 
+        
+        {
+          "image_file": "24.webp"
+        }
+      ]
+    },
+        {
+      "id": "125",
+      "name": "suzumiya",
+      "folder_link":"https://floormatreviews.net/anime_stickers/01.suzumiya/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+ 
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "126",
+      "name": "Fairy Tail",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Fairy_Tail_1/",
+      "image_cover": "tray.png",
+      "stickers": [
+             {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "127",
+      "name": "Death Note",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DeathNote2/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+  
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "128",
+      "name": "Tokyo Ghoul ",
+      "folder_link":"https://floormatreviews.net/anime_stickers/TokyoGhoul1/",
+      "image_cover": "tray.png",
+      "stickers": [
+             {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "129",
+      "name": "Dagashi Kashi",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DagashiKashi/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+   
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "130",
+      "name": "Eromanga Sensei",
+      "folder_link":"https://floormatreviews.net/anime_stickers/EromangaSensei/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "131",
+      "name": "Gabriel DropOut",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Gabriel_DropOut/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "132",
+      "name": "Neon Genesis Evangelion",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Neon_Genesis_Evangelion/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+        {
+      "id": "133",
+      "name": "Gekkan Shoujo",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Gekkan_Shoujo/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+        
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    
+   
+        {
+      "id": "134",
+      "name": "Girlish Number",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Girlish_Number/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+   
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "name": "Amagi briliant park",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Amagi_briliant_park/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+     
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "136",
+      "name": "Fate",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Fate/",
+      "image_cover": "tray.png",
+      "stickers": [
+         {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+ 
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "137",
+      "name": "Idolmaster",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Idolmaster/",
+      "image_cover": "tray.png",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "138",
+      "name": "Love Live",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Love_Live/",
+      "image_cover": "tray.png",
+      "stickers": [
+         {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+      
+          {
+          "image_file": "10.webp"
+        },
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "139",
+      "name": "Little Witch Academia",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Little_Witch_Academia/",
+      "image_cover": "tray.png",
+      "stickers": [
+         {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "name": "Serial Experiment Lain",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Serial_Experiment_Lain/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "141",
+      "name": "Bleach",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Bleach_1/",
+      "image_cover": "tray.png",
+      "stickers": [
+           {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, 
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "142",
+      "name": "Blend S",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Blend_S/",
+      "image_cover": "tray.png",
+      "stickers": [
+             {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+ 
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+    {
+      "id": "143",
+      "name": "Goblin Slayer",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Goblin_Slayer/",
+      "image_cover": "14.webp",
+      "stickers": [
+            {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+    
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+    
+        {
+          "image_file": "19.webp"
+        }
+      ]
+    },
+    {
+      "id": "144",
+      "name": "DEMON SLAYER",
+      "folder_link":"https://floormatreviews.net/anime_stickers/DEMON_SLAYER/",
+      "image_cover": "14.webp",
+      "stickers": [
+            {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+          {
+          "image_file": "6.webp"
+        },
+          {
+          "image_file": "7.webp"
+        },
+          {
+          "image_file": "8.webp"
+        },
+          {
+          "image_file": "9.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+   
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, 
+        
+        {
+          "image_file": "27.webp"
+        }
+      ]
+    },
+    {
+      "id": "145",
+      "name": "Touhou",
+      "folder_link":"https://floormatreviews.net/anime_stickers/Touhou_1/",
+      "image_cover": "tray.png",
+      "stickers": [
+  {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+          {
+          "image_file": "06.webp"
+        },
+          {
+          "image_file": "07.webp"
+        },
+          {
+          "image_file": "08.webp"
+        },
+          {
+          "image_file": "09.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+  
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+          {
+          "image_file": "16.webp"
+        },
+          {
+          "image_file": "17.webp"
+        },
+          {
+          "image_file": "18.webp"
+        },
+         {
+          "image_file": "19.webp"
+        },
+         {
+          "image_file": "20.webp"
+        }, {
+          "image_file": "21.webp"
+        }, {
+          "image_file": "22.webp"
+        }, {
+          "image_file": "23.webp"
+        }, {
+          "image_file": "24.webp"
+        }, {
+          "image_file": "25.webp"
+        }, {
+          "image_file": "26.webp"
+        }, {
+          "image_file": "27.webp"
+        }, {
+          "image_file": "28.webp"
+        }, {
+          "image_file": "29.webp"
+        },
+        
+        {
+          "image_file": "01.webp"
+        }
+      ]
+    },
+  
+    {
+      "id": "146",
+      "name": "SNORLAX",
+      "folder_link":"https://floormatreviews.net/anime_stickers/SNORLAX/",
+      "image_cover": "2.webp",
+      "stickers": [
+          {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+          {
+          "image_file": "6.webp"
+        },
+          {
+          "image_file": "7.webp"
+        },
+          {
+          "image_file": "8.webp"
+        },
+          {
+          "image_file": "9.webp"
+        },
+          {
+          "image_file": "10.webp"
+        },
+  
+          {
+          "image_file": "11.webp"
+        },
+           {
+          "image_file": "12.webp"
+        },
+         
+                  {
+          "image_file": "13.webp"
+        },
+          {
+          "image_file": "14.webp"
+        },
+          {
+          "image_file": "15.webp"
+        },
+
+        
+        {
+          "image_file": "16.webp"
+        }
+      ]
+    }
+  ]
+}
+
